@@ -10,6 +10,9 @@ A music player. (For Chinese users only!)
 
 https://github.com/user-attachments/assets/768d28aa-56bb-432b-8eb8-67ba64cb17c5
 
-
+<video width="640" height="360" controls>
+  <source src="https://github.com/user-attachments/assets/768d28aa-56bb-432b-8eb8-67ba64cb17c5" type="video/mp4">
+  您的浏览器不支持HTML5视频播放器。
+</video>
 
 enjoy
