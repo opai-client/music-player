@@ -27,10 +27,7 @@ ___
   - pf.ttf (~10MB)
   - pfBold.ttf (~10MB)
 - ncmapi.exe (A local node.js api for NetEase Cloud Music, ~65MB)
-- unblockneteasemusic.exe (A local node.js http proxy for unlocking member songs, ~36MB)
 
 ### If you are afraid that the executable file provided in the extension contains a virus, you can compile one yourself and rename it to the same name and put it in the .jar.
 - [ncmapi (npm)](https://www.npmjs.com/package/NeteaseCloudMusicApi)
-  - You need to manually add the http proxy to the source code. In util/request.js, add `options.proxy = "http://127.0.0.1:8080"` before the `if (options.proxy) {` code. Follow the tutorial to build the project. Finally, run `pkg .` in the command prompt in the project root directory to build the executable file.
-- [UnblockNeteaseMusic/server (github)](https://github.com/UnblockNeteaseMusic/server)
   - Download the latest release or build one yourself.
