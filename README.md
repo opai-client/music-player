@@ -1,3 +1,12 @@
+# 这个仓库中的扩展已不再更新！
+# 这个仓库中的扩展已不再更新！
+# 这个仓库中的扩展已不再更新！
+# 请前往 [Tritium Music](https://github.com/opai-client/tritium-music) 页面获取新版播放器
+# 请前往 [Tritium Music](https://github.com/opai-client/tritium-music) 页面获取新版播放器
+
+___
+___
+
 # music-player
 A music player.
 
